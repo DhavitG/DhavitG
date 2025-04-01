@@ -17,6 +17,15 @@
 
 ---
 
+### 📈 **GitHub Activity Graph**
+<p align="center">
+  <a href="https://github.com/DhavitG">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhavitG&theme=radical"/>
+  </a>
+</p>
+
+---
+
 ### 📊 **Languages & Tools**
 <p align="center">
   <a href="https://github.com/DhavitG">
@@ -30,6 +39,23 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,html,css,nodejs,mongodb,git,github,vscode" />
 </p>
+
+---
+
+### 📜 **GitHub Trophies**
+<p align="center">
+  <a href="https://github.com/DhavitG">
+    <img src="https://github-profile-trophy.vercel.app/?username=DhavitG&theme=radical&no-bg=true&no-frame=true" />
+  </a>
+</p>
+
+---
+
+### 💡 **Fun Facts**
+- 🎯 **Goal:** Achieve **70% accuracy by epoch 10** in my ISL recognition project 🚀
+- 🎓 Researching **Image Processing & Computer Vision** 🖼️📊
+- 🏆 Active on **Stake.com** (27.60% towards Bronze!) 🎰🔥
+- 📖 Recently submitting a **research paper on Electric Vehicles (EV)** ⚡🚗
 
 ---
 

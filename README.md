@@ -20,7 +20,7 @@
 ### 📈 **GitHub Activity Graph**
 <p align="center">
   <a href="https://github.com/DhavitG">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhavitG&theme=radical"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhavitG&theme=radical&area=true&hide_border=false&point=ffb000&color=32CD32&line=ff6600&bg_color=0D1117"/>
   </a>
 </p>
 
@@ -48,14 +48,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DhavitG&theme=radical&no-bg=true&no-frame=true" />
   </a>
 </p>
-
----
-
-### 💡 **Fun Facts**
-- 🎯 **Goal:** Achieve **70% accuracy by epoch 10** in my ISL recognition project 🚀
-- 🎓 Researching **Image Processing & Computer Vision** 🖼️📊
-- 🏆 Active on **Stake.com** (27.60% towards Bronze!) 🎰🔥
-- 📖 Recently submitting a **research paper on Electric Vehicles (EV)** ⚡🚗
 
 ---
 

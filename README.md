@@ -17,15 +17,6 @@
 
 ---
 
-### 📈 **GitHub Activity Graph**
-<p align="center">
-  <a href="https://github.com/DhavitG">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhavitG&theme=radical&area=true&hide_border=false&point=ffb000&color=32CD32&line=ff6600&bg_color=0D1117&custom_title=GitHub+Activity+Graph&area_color=ff4500&hide_title=false&months=true"/>
-  </a>
-</p>
-
----
-
 ### 📊 **Languages & Tools**
 <p align="center">
   <a href="https://github.com/DhavitG">

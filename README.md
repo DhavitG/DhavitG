@@ -7,16 +7,6 @@
 
 ---
 
-### 🏆 **GitHub Stats**
-<p align="center">
-  <a href="https://github.com/DhavitG">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhavitG&show_icons=true&theme=radical" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=DhavitG&theme=radical&hide_border=false" />
-  </a>
-</p>
-
----
-
 ### 📊 **Languages & Tools**
 <p align="center">
   <a href="https://github.com/DhavitG">

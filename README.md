@@ -32,14 +32,6 @@
 
 ---
 
-### 📊 &nbsp;Most Used Languages (Visual)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used?username=DhavitG&theme=github_dark" />
-</p>
-
----
-
 
 ### 🏆 &nbsp;**GitHub Trophies**
 <p align="center">

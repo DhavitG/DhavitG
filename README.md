@@ -32,6 +32,13 @@
 
 ---
 
+### 💻 &nbsp;**Most Used Languages**
+<p align="center">
+  <img src="assets/most-used-languages.png" alt="Most Used Languages" width="500"/>
+</p>
+
+---
+
 ### 🏆 &nbsp;**GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DhavitG&theme=radical&no-bg=true&no-frame=true&column=7" />

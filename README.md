@@ -26,8 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DhavitG&show_icons=true&theme=radical&hide=contribs&count_private=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhavitG&theme=radical&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhavitG&layout=compact&theme=radical" />
 </p>
 
 ---

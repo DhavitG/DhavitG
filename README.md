@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 &nbsp;**About Me**
-- 🔭 Currently working with AI/ML and full-stack web dev.
+- 🚀 Fusing AI/ML with web dev to solve real-world problems.
 - ⚙️ Tech explorer: Web3, React.js, Node.js, and more.
 - 🌱 Always learning something new.
 

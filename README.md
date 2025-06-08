@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm Dhavit 👋</h1>
-<p align="center">
-  <a href="https://github.com/DhavitG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=800&color=32CD32&center=true&vCenter=true&width=435&lines=🚀+Code.+Build.+Repeat.;🔥+Pushing+the+Limits.;💡+Always+Learning.">
-  </a>
-</p>
 
 ---
 

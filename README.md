@@ -9,7 +9,7 @@
 
 ### 🧰 &nbsp;**Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,nodejs,html,css,mongodb,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,nodejs,html,css,mongodb,git,github,vscode,java&perline=8" />
 </p>
 
 ---

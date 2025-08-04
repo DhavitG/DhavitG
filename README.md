@@ -2,7 +2,7 @@
 
 ### 🧠 &nbsp;**About Me**
 - 🚀 Fusing AI/ML with web dev to solve real-world problems.
-- ⚙️ Tech explorer: Web3, React.js, Node.js, and more.
+- ⚙️ Tech explorer: Web3, React.js, Next.js, and more.
 - 🌱 Always learning something new.
 
 ---

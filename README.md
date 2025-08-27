@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dhavit 👋</h1>
 
 ### 🧠 &nbsp;**About Me**
-- 🚀 Fusing AI/ML with web dev to solve real-world problems.
+- 🚀 Leveraging web dev to solve real-world problems.
 - ⚙️ Tech explorer: Web3, React.js, Next.js, and more.
 - 🌱 Always learning something new.
 
